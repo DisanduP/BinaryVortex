@@ -1,4 +1,4 @@
-![Disandu Perera](https://github.com/BinaryVortex/BinaryVortex/blob/main/banner%20(2).png?raw=true)
+![DisanduP](https://github.com/BinaryVortex/BinaryVortex/blob/main/banner%20(2).png?raw=true)
 
 <h1 align="center">Hi 👋, I'm BinaryVortex.</h1>
 <h3 align="center">A passionate developer from Sri Lanka.</h3>
